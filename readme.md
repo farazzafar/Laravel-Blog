@@ -1,4 +1,4 @@
-Laravel based Blog
+# Laravel based Blog
 
 Installation Steps:
 
